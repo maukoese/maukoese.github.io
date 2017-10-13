@@ -1,5 +1,5 @@
 # maukoese.github.io
-http://code.mauko.co.ke mirror site
+Portfolio website for Mauko Maunde
 
-Here is a list of the code I have written, with download links and more.
+Presented as part of Moringa Prep IP1
 
